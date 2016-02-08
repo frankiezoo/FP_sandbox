@@ -1,0 +1,5 @@
+A sandbox for single magnet single superconductor flux pinning dynamics.
+
+All code is contained in four files: FP_sandbox. fig, FP_sanbox.m, FP_sandbox_graphics.m, and single_magnet_single_superconductor.slx. You must have MATLAB on your computer to run this sandbox.
+
+To run this sandbox, download all four files and place them in your current MATLAB directory. run FP_sandbox fill in all physical parameters press different buttons to show different graphics Buttons are organized in chronological order. The top buttons need to be pushed first, the bottom buttons later on. Some button actions are dependent on previous button actions.
